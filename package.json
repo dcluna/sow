@@ -24,7 +24,7 @@
     "preferGlobal": true,
     "main": "./build/index",
     "bin": {
-        "sow": "./bin/sow"
+        "sow": "bin/sow"
     },
     "scripts": {
         "prepublish": "node setup.js prepublish",
